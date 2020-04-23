@@ -12,7 +12,7 @@
 
 - [Standford CS231n Spring 2017 Lecture](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 - [OpenCV Python Tutorial](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html)
-- Pytorch 자율학습
+- [Pytorch 공식 Tutorial](https://tutorials.pytorch.kr/) 혹은 [Pytorch 부스트코스](https://www.edwith.org/boostcourse-dl-pytorch)로 Pytorch 자율학습
 
 <table style="text-align:center;">
     <thread>
