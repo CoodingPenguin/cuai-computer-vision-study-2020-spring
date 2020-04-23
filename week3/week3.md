@@ -1,7 +1,7 @@
 # 스터디 3주차
 
-- [Lecture 5](#-lecture-5)
-- [Lecture 6](#-lecture-6)
+- [Lecture 5](#lecture-5)
+- [Lecture 6](#lecture-6)
 
 ## Lecture 5
 
