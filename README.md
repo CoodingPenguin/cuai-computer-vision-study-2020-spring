@@ -18,45 +18,45 @@
     <thread>
         <tr>
             <th width="20%">주차</th>
-            <th width="30%">CS231n</th>
-            <th width="50%">OpenCV</th>
+            <th width="50%">CS231n</th>
+            <th width="30%">OpenCV</th>
         </tr>
     </thread>
     <tbody>
         <tr>
             <td align="center">1주차</td>            
-            <td align="center">1, 2장</td>
+            <td align="left">Lecture 1. Introduction to CNN for Visual Recognition<br>Lecture 2. Image Classification</td>
             <td align="center">─</td>
         </tr>
         <tr>
             <td align="center">2주차</td>
-            <td align="center">3, 4장</td>
-            <td align="center">Gui Features in OpenCV</td>
+            <td align="left">Lecture 3. Loss Function and Optimization <br>Lecture 4. Introduction to Neural Networks</td>
+            <td align="left">Gui Features in OpenCV</td>
         </tr>
                 <tr>
             <td align="center">3주차</td>
-            <td align="center">5, 6장</td>
-            <td align="center">Core Operations</td>
+            <td align="left">Lecture 5. Convolutional Neural Networks<br>Lecture 6. Traning Neural Networks Ⅰ</td>
+            <td align="left">Core Operations</td>
         </tr>
                 <tr>
             <td align="center">4주차</td>
-            <td align="center">7, 8장</td>
-            <td align="center">Image Processing in OpenCV</td>
+            <td align="left">Lecture 7. Training Neural Networks Ⅱ<br>Lecture 8. Deep Learning Software</td>
+            <td align="left">Image Processing in OpenCV</td>
         </tr>
                 <tr>
             <td align="center">5주차</td>
-            <td align="center">9, 10장</td>
-            <td align="center">Feature Detection and Description</td>
+            <td align="left">Lecture 9. CNN Architectures<br>Lecture 10. Recurrent Neural Networks</td>
+            <td align="left">Feature Detection and Description</td>
         </tr>
                 <tr>
             <td align="center">6주차</td>
-            <td align="center">11, 12장</td>
-            <td align="center">Computational Photography</td>
+            <td align="left">Lecture 11. Detection and Segmentation<br>Lecture 12. Visualizing and Understanding</td>
+            <td align="left">Computational Photography</td>
         </tr>
         <tr>
             <td align="center">7주차</td>
             <td align="center">─</td>
-            <td align="center">Object Detection</td>
+            <td align="left">Object Detection</td>
         </tr>
     </tbody>
 </table>
@@ -73,15 +73,27 @@
     <tbody>
         <tr>
             <th width="10%">날짜</th>
-            <th width="25%">장소</th>
-            <th width="15%">불참자</th>
-            <th width="50%">내용</th>
+            <th width="20%">불참자</th>
+            <th width="55%">내용</th>
+            <th width="15%">기록</th>
         </tr>
         <tr>
             <td align="center">2020.04.07</td>
-            <td align="center">행아웃</td>
             <td align="center">─</td>
-            <td align="center">컴퓨터비전의 역사와 이미지 분류</td>
+            <td align="left">[CS231n] Lecture 1. Introduction to CNN for Visual Recognition<br>[CS231n] Lecture 2. Image Classification</td>
+            <td align="center"><a href="week1/week1.md">week1</a></td>
+        </tr>
+        <tr>
+            <td align="center">2020.04.14</td>
+            <td align="center">─</td>
+            <td align="left">[CS231n] Lecture 3. Loss Function and Optimization<br>[CS231n] Lecture 4. Introduction to Neural Networks<br>[OpenCV Tutorial] Gui Features in OpenCV</td>
+            <td align="center"><a href="week2/week2.md">week2</a></td>
+        </tr>
+        <tr>
+            <td align="center">2020.04.21</td>
+            <td align="center">─</td>
+            <td align="left">[CS231n] Lecture 5. Convolutional Neural Networks<br>[CS231n] Lecture 6. Traning Neural Networks Ⅰ<br>[OpenCV Tutorial] Core Operations</td>
+            <td align="center"><a href="week3/week3.md">week3</a></td>
         </tr>
     </tbody>
 </table>
@@ -92,3 +104,4 @@
 - [참신러닝 CS231n 강의노트](https://leechamin.tistory.com/category/%EA%B0%95%EC%9D%98%EB%85%B8%ED%8A%B8/CS231n)
 - [참신러닝 OpenCV Tutorial 정리](https://leechamin.tistory.com/category/Python/OpenCV)
 - [AI Korea CS231n 강의노트](http://aikorea.org/cs231n/)
+- [어쩐지 오늘은 블로그 CS231n 정리](https://zzsza.github.io/tag/data-cs231/)
