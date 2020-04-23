@@ -7,7 +7,7 @@
 
 #### ✅ `소현` Image Segmentation, Image Detection, Object Recognition, Image Captioning 등 컴퓨터 비전 분야에 대해 정리해보자. (엄청 깊게는 아니고 각 분야의 차이 정도)
 
-[딥러닝 객체 검출 용어 정리 Deep learning Object detection terminology [1]](https://light-tree.tistory.com/75)
+[딥러닝 객체 검출 용어 정리 Deep learning Object detection terminology](https://light-tree.tistory.com/75)
 
 - 대표적인 문제들을 정리한 사진 참고
 
