@@ -92,8 +92,14 @@
         <tr>
             <td align="center">2020.04.21</td>
             <td align="center">─</td>
-            <td align="left">[CS231n] Lecture 5. Convolutional Neural Networks<br>[CS231n] Lecture 6. Traning Neural Networks Ⅰ<br>[OpenCV Tutorial] Core Operations</td>
+            <td align="left">[CS231n] Lecture 5. Convolutional Neural Networks<br>[CS231n] Lecture 6. Training Neural Networks Ⅰ<br>[OpenCV Tutorial] Core Operations</td>
             <td align="center"><a href="week3/week3.md">week3</a></td>
+        </tr>
+        <tr>
+            <td align="center">2020.04.28</td>
+            <td align="center">─</td>
+            <td align="left">[CS231n] Lecture 7. Training Neural Networks Ⅱ<br>[CS231n] Lecture 8. Deep Learning Software<br>[OpenCV Tutorial] Image Processing in OpenCV</td>
+            <td align="center"><a href="week4/week4.md">week4</a></td>
         </tr>
     </tbody>
 </table>
