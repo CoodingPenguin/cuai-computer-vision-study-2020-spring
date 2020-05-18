@@ -101,6 +101,12 @@
             <td align="left">[CS231n] Lecture 7. Training Neural Networks Ⅱ<br>[CS231n] Lecture 8. Deep Learning Software<br>[OpenCV Tutorial] Image Processing in OpenCV</td>
             <td align="center"><a href="week4/week4.md">week4</a></td>
         </tr>
+        <tr>
+            <td align="center">2020.05.13</td>
+            <td align="center">─</td>
+            <td align="left">[CS231n] Lecture 9. CNN Architectures<br>[CS231n] Lecture 10. Recurrent Neural Networks<br>[OpenCV Tutorial] Feature Detection and Description</td>
+            <td align="center"><a href="week5/week5.md">week5</a></td>
+        </tr>
     </tbody>
 </table>
 
